@@ -10,3 +10,8 @@ This is the *Sorting Tool with Java* project I made myself.
 Here's the link to the project: https://hyperskill.org/projects/45
 
 Check out my profile: https://hyperskill.org/profile/619718562
+
+Not implemented:
+
+- Writing to the file is not done
+- Checking the types 
